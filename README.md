@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition with Convolutional Neural Network
 
-![screenshot](https://github.com/randyver/handwritten-digit-recognition/tree/main/frontend/src/public/screenshot.png)
+![image](https://github.com/user-attachments/assets/ee0db0aa-1c9c-496e-bfc2-20522c758d02)
+
 
 This project implements a Convolutional Neural Network (CNN) for digit recognition using the MNIST dataset. The model is built with TensorFlow and Keras, trained to classify handwritten digits (0-9). The CNN architecture includes multiple convolutional and pooling layers, followed by dense layers to output the digit predictions.
 
